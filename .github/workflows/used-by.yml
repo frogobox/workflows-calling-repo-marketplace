@@ -26,3 +26,14 @@ jobs:
 
       - name: Frogo-Recycler-View
         uses: amirisback/frogo-recycler-view@4.2.0
+        
+      - name: FrogoAdmob
+        uses: amirisback/frogo-admob@4.4.1
+
+      - name: Frogo-SDK
+        uses: frogobox/frogo-sdk@1.1.1
+        
+      - name: Frogo-UI
+        uses: frogobox/frogo-ui@1.0.7
+
+
